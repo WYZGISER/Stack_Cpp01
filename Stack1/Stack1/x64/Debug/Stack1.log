@@ -1,0 +1,4 @@
+﻿  index.cpp
+C:\Users\10920\Desktop\code\Stack1\index.cpp(94,1): error C4700: 使用了未初始化的局部变量“put”
+C:\Users\10920\Desktop\code\Stack1\index.cpp(97,1): error C4700: 使用了未初始化的局部变量“get”
+C:\Users\10920\Desktop\code\Stack1\index.cpp(101,1): error C4700: 使用了未初始化的局部变量“read”
